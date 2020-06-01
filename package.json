@@ -1,0 +1,28 @@
+{
+  "name": "ethereum-demo",
+  "version": "1.0.0",
+  "description": "a demo to start ethereum",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netpi/ethereum-demo.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "demo"
+  ],
+  "author": "netpi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netpi/ethereum-demo/issues"
+  },
+  "homepage": "https://github.com/netpi/ethereum-demo#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.35",
+    "web3": "^1.2.8"
+  }
+}
